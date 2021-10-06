@@ -4,5 +4,5 @@
 - 🌱 Iam currently learning big data, machine learning and apps development.
 - 👯 I’m looking to collaborate on new projects, research on chronic conditions prevention and/or management.
 - 💬 Ask me about collaborations and publications.
-- 📫 How to reach me: LinkedIN
+- 📫 How to reach me:[LinkedIN](https://www.linkedin.com/in/azuka-obasuyi/)
 - ⚡ Fun fact: I love travelling and networking!
