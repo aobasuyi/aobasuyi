@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on new projects, chronic conditions prevention and/or management research.
 - 💬 Ask me about collaborations and publications.
 - 📫 How to reach me:[LinkedIN](https://www.linkedin.com/in/azuka-obasuyi/)
-- 👀 Professional portfolio:[Portoflio](https://www.linkedin.com/in/azuka-obasuyi/)
+- 👀 Professional portfolio:[Portfolio](https://aobasuyi.github.io/Portfolio/)
 - ⚡ Fun fact: I love travelling and networking!
